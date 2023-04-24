@@ -1,17 +1,18 @@
 {
   "name": "@ditus/react-image-magnify",
-  "version": "2.7.7",
+  "version": "2.7.8",
   "description": "A responsive image zoom component designed for shopping sites.",
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethanselzer/react-image-magnify.git"
+    "url": "https://github.com/ditus-software/react-image-magnify.git"
   },
   "author": "Ethan Selzer <ethanselzer@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethanselzer/react-image-magnify/issues"
+    "url": "https://github.com/ditus-software/react-image-magnify/issues"
   },
-  "homepage": "https://github.com/ethanselzer/react-image-magnify",
+  "homepage": "https://github.com/ditus-software/react-image-magnify",
   "keywords": [
     "react",
     "image",
