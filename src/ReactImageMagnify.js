@@ -1,4 +1,4 @@
-import detectIt from 'detect-it';
+import * as detectIt from 'detect-it';
 import objectAssign from 'object-assign';
 import PropTypes from 'prop-types';
 import React from 'react';

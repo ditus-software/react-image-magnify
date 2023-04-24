@@ -1,6 +1,6 @@
 {
     "root": true,
-    "parser": "babel-eslint",
+    "parser": "@babel/eslint-parser",
     "env": {
         "browser": true,
         "node": true,
@@ -9,6 +9,7 @@
     "parserOptions": {
         "ecmaVersion": 6,
         "sourceType": "module",
+        "requireConfigFile": false,
         "ecmaFeatures": {
             "jsx": true,
             "experimentalObjectRestSpread": true
